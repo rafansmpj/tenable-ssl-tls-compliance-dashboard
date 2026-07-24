@@ -4,7 +4,7 @@ author: "rafansmpj"
 github_url: "https://github.com/rafansmpj/tenable-ssl-tls-compliance-dashboard"
 description: "Interactive read-only SSL/TLS and certificate compliance dashboard built from Tenable scan data."
 license: "MIT"
-tier: "unreviewed"
+tier: "contributed"
 tags: [tenable, ssl-tls, compliance, certificate-management, pci-dss, dashboard]
 integrations: [Tenable]
 date_added: 2026-07-24
