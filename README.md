@@ -1,6 +1,6 @@
 # Tenable SSL & TLS - Compliance Dashboard
 
-An Cloude Desktop Skill that works with the Hexa AI MCP to build/generates an interactive Executive Dashboard for SSL & TLS Visibility. 
+A Cloude Desktop Skill that works with the Hexa AI MCP to build/generates an interactive Executive Dashboard for SSL & TLS Visibility. 
 
 ## What it does
 
