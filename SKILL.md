@@ -357,3 +357,9 @@ Used by **Infrastructure/Security** teams to:
 - Prepare the environment ahead of an audit (PCI DSS, SOC 2, ISO 27001) covering encryption-in-transit controls.
 - Give the infrastructure team an actionable asset list + technical evidence (protocol/cipher/certificate) to fix
   without hunting it down manually in Tenable.
+
+---
+
+## Content Agreement
+I have reviewed and accept the CyberAgents Exchange Contribution Agreement
+  
