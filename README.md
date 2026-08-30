@@ -19,7 +19,6 @@ Mode: Read-only — diagnostic only. The skill never replaces certificates, disa
 
 - Claude Code (or another Claude environment with skills support) installed locally.
 - A Tenable One MCP server connected and authenticated, this is what provides live Exposure Score, vulnerability findings, Crown Jewels, and attack path chokepoint data. Without it, the skill falls back to a "DEMO — illustrative data" mock dashboard.
-- The MCP connection needs read access to: Exposure View (score, domain notes, industry benchmark), Findings/Vulnerabilities (VPR, severity, affected assets), Crown Jewels list, and Attack Path graph (for chokepoint identification).
 - An environment capable of rendering the resulting React/HTML artifact (Claude.ai or Claude Code's artifact viewer).
 
 ### 2. Installation
