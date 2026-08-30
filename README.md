@@ -36,3 +36,6 @@ The folder should contain SKILL.md (and optionally README.md, LICENSE, listing.y
 - Optionally, set organizational context the skill will use when invoked: industry/sector (for benchmark comparison), language preference (English/Portuguese), and any default filters (e.g., always focus on Crown Jewels, or always include regulatory mapping like LGPD/ISO 27001/NIST CSF/PCI-DSS).
 - No API keys or .env files are needed inside the skill itself — credentials live entirely in the MCP connector configuration, not in the skill folder.
 
+ ## Content Agreement
+ I have reviewed and accept the CyberAgents Exchange Contribution Agreement
+
