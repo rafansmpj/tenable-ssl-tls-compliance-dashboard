@@ -22,17 +22,21 @@ Mode: Read-only — diagnostic only. The skill never replaces certificates, disa
 
 ### 2. Installation
 
-1. GUI Method (Easiest)
+**Claude Desktop**
 
-User goes:
 Settings → Skills → Add Skill → Search/Browse → Click Install
 
-Claude handles the file placement automatically.
+Claude Desktop handles the file placement automatically. Restart Claude Desktop after installing so it picks up the skill.
 
-2. Manual Method (What We Did)
-Put the skill folder in ~/.claude/skills/
-Restart Claude Desktop
-Claude auto-discovers it
+**Claude Code**
+
+Clone this repo into your skills directory:
+
+```
+git clone https://github.com/rafansmpj/tenable-ssl-tls-compliance-dashboard.git ~/.claude/skills/tenable-ssl-tls-compliance-dashboard
+```
+
+Or copy the repo folder into `~/.claude/skills/` manually. Claude Code auto-discovers skills in that directory — no restart required, just start a new session.
 
 ### 3. Configure
 

@@ -1,5 +1,5 @@
 ---
-name: Tenable SSL & TLS - Compliance Dashboard
+name: tenable-ssl-tls-compliance-dashboard
 description: >
   Generates an interactive standalone-HTML SSL/TLS compliance dashboard from Tenable data, using Plugin 56984
   for protocols/ciphers plus certificate plugins 10863, 15901, 42981, 57582, 35291, 86067 and 45411. Identifies
